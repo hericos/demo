@@ -1,11 +1,11 @@
 {
-  "F4148999" {
+  "F4148999": {
     "cdStatus":191,"textoStatus":"PONTO ELETRONICO FECHADO"
-  }
-  "F4148998" {
+  },
+  "F4148998": {
     "cdStatus":192,"textoStatus":"JORNADA CUMPRIDA. DESEJA CONTINUAR?"
-}
-  "F4148997" {
+  },
+  "F4148997": {
     "cdStatus":0,"textoStatus":"HORARIO LIMITE DE TRABALHO: 14:07 H."
   }
 }
