@@ -1,17 +1,17 @@
 {
   "F0000000": {
-    "cdStatus":191,"textoStatus":"PONTO ELETRONICO FECHADO"
+    "cdStatus":191,"textoStatus":"PONTO ELETRONICO FECHADO2"
   },
   "F0000001": {
-    "cdStatus":192,"textoStatus":"JORNADA CUMPRIDA. DESEJA CONTINUAR?"
+    "cdStatus":192,"textoStatus":"JORNADA CUMPRIDA. DESEJA CONTINUAR?2"
   },
   "F0001315": {
-    "cdStatus":0,"textoStatus":"HORARIO LIMITE DE TRABALHO: 13:16 H."
+    "cdStatus":0,"textoStatus":"HORARIO LIMITE DE TRABALHO: 13:16 H.2"
   },
   "F0001330": {
-    "cdStatus":0,"textoStatus":"HORARIO LIMITE DE TRABALHO: 13:32 H."
+    "cdStatus":0,"textoStatus":"HORARIO LIMITE DE TRABALHO: 13:32 H.2"
   },
   "F4148997": {
-    "cdStatus":0,"textoStatus":"HORARIO LIMITE DE TRABALHO: 13:07 H."
+    "cdStatus":0,"textoStatus":"HORARIO LIMITE DE TRABALHO: 13:07 H.2"
   }
 }
